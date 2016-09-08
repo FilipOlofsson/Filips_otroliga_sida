@@ -2,6 +2,7 @@
   width:50%;
   margin:auto;
   text-align:center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .submit-button {
   border-style:solid;
@@ -26,7 +27,7 @@
 .searchText {
   height:25px;
   width:150px;
-  border-style:none;
+  border:1px solid black;
   background-color:rgba(0, 0, 0, 0.5);
   border-radius:5px 0 0px 5px;
   transition-duration: 1s;
@@ -35,9 +36,9 @@
   width:500px;
 }
 .searchButton {
-  height:27px;
-  border-style:none;
+  height:29px;
+  border:1px solid black;
   background-color:rgba(0, 0, 0, 0.3);
   border-radius:0px 5px 5px 0px;
-  margin-left:-4px;
+  margin-left:-6px;
 }
